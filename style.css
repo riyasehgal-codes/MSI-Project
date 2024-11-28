@@ -1,0 +1,110 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html,body{
+    width: 100%;
+    height: 100%;
+}
+
+div{
+    /* display: inline-block; */
+    /* margin-right: 1000px; */
+}
+
+pre{
+    /* width:90px; */
+    font:message-box;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.nav{
+    font-size: medium;
+    font-family: var(--body-text-default-font-family);
+    padding-top: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    width: fit-content;
+    height: auto;
+}
+
+.logo {
+    width:120px;
+    position: absolute;
+    top: 12px;
+    left:50%;
+    margin-top: 0px; 
+    transform: translateX(-50%);   
+}
+
+.insta {
+    width: 110px;
+    position: absolute;
+    top: 12px;
+    left:95%;
+    /* margin-left: 0px; */
+    margin-top: 0px; 
+    transform: translateX(-50%);
+}
+
+.twitter {
+    width: 27px;
+    position: absolute;
+    top: 12px;
+    left:93%;
+    margin-top: 0px; 
+    transform: translateX(-50%);
+}
+
+.sec{
+    font-size: large;
+    /* width:120px; */
+    position: absolute;
+    top: 120px;
+    left:50%;
+    /* margin-top: 0px;  */
+    transform: translateX(-50%);
+}
+
+.search{
+    position: absolute;
+    margin-top: 30px;
+    left: 87%;
+    
+}
+
+.shipping{
+    font-family: 'Franklin Gothic Medium';
+    color: black;
+    font-size: small;
+    /* width:120px; */
+    position: absolute;
+    top: 190px;
+    left:50%;
+    /* margin-top: 0px;  */
+    transform: translateX(-50%);
+}
+
+.first{
+    position: absolute;
+    width: 800px;
+    left: 40%;
+    top: 34%;
+    border-bottom-right-radius: 30%;
+    border-top-left-radius: 30%;
+}
+
+.textt{
+    position: relative;
+    width: 30%;
+    padding-top: 165px;
+}
+.textt {
+    /* position: relative; */
+    width: 30%;
+    padding-top: 190px;
+    padding-left: 30px;
+    /* display: flex; */
+    /* justify-content:baseline; */
+}

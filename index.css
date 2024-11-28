@@ -1,0 +1,40 @@
+.msi{
+    color: darkblue;
+    flex-direction: column;
+    text-align: center;
+    font-size: 60px;
+    background-color: bisque;
+}
+.add{
+    text-align: center;
+    display: flex;
+    width: 800px;
+    /* justify-content: center; */
+    /* align-items: center; */
+    padding-left: 245px;
+    padding-top: 1px;
+    background-color: bisque;
+}
+
+#logo{
+    position: absolute;
+    height: 110px;
+    top: 20px;
+    left: 20px;
+    background-color: bisque;
+}
+
+.div1 {
+    /* border-style: solid; */
+    /* background-color: bisque; */
+}
+body{
+    background-color: bisque;
+}
+
+.navigation {
+    padding-left: 200px;
+    color: white;
+    background-color: brown;
+    /* width: 300px; */
+}
