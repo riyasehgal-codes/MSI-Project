@@ -108,3 +108,114 @@ pre{
     /* display: flex; */
     /* justify-content:baseline; */
 }
+.sale{
+    color: red;
+    background-color: black;
+    width: 1100px;
+    height: 180px;
+    position: absolute;
+    left: 13%;
+    top: 700px;
+}
+#black{
+    /* font-size: large; */
+    padding-left: 20%;
+    padding-top: 20px;
+    font-size: xxx-large;
+    /* transform: translateX(-50%); */
+}
+
+#under{
+    padding-left: 39%;
+    padding-top: 10px;
+    font-size: large;
+    font-family:'Franklin Gothic Medium' ;
+    word-spacing: 10px;
+}
+
+.button{
+    /* margin-left: 50%; */
+    margin-top: 20px;
+    position: relative;
+    left: 18%;
+    font-size: medium;
+    padding:3px;
+    padding-left: 30PX;
+    padding-right: 30px;
+    /* display:inline-flex; */
+    /* gap: 5px; */
+    margin-right: 50px;
+}
+
+.clothes {
+    position: absolute;
+    top: 1000px;
+    left: 10%
+}
+
+.clothesimg{
+    position: absolute;
+    top: 1050px;
+    left:10%;
+    border: solid;
+    padding: 20px;
+    padding-bottom: 70px;
+    background-color: black;
+    
+}
+
+.price2{
+    position: absolute;
+    top: 1315px;
+    font-size: xx-large;
+    color: red;
+    left: 14%;
+    padding-left: 30px;
+    
+
+}
+.price3 {
+    position: absolute;
+    top: 1315px;
+    font-size: xx-large;
+    color: red;
+    left: 26%;
+    padding-left: 30px;
+}
+.price4 {
+    position: absolute;
+    top: 1315px;
+    font-size: xx-large;
+    color: red;
+    left: 38%;
+    padding-left: 30px;
+}
+.price5 {
+    position: absolute;
+    top: 1315px;
+    font-size: xx-large;
+    color: red;
+    left: 50%;
+    padding-left: 30px;
+}
+.price6 {
+    position: absolute;
+    top: 1315px;
+    font-size: xx-large;
+    color: red;
+    left: 61%;
+    padding-left: 30px;
+}
+.price7 {
+    position: absolute;
+    top: 1315px;
+    font-size: xx-large;
+    color: red;
+    left: 71%;
+    padding-left: 30px;
+}
+
+.jumbo {
+    background-color: grey;
+    width: 700px;
+}
